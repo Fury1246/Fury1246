@@ -1,0 +1,4 @@
+prompt = "Similar to a song of ice and fire or Harry Potter in terms of vibes, but a different plot entirely. Set in modern day. Add some element of technology to it."
+num_chapters = 20
+writing_style = "Clear and easily understandable, similar to a young adult novel. Highly descriptive and sometimes long-winded."
+novel, title, chapters, chapter_titles = write_fantasy_novel(prompt, num_chapters, writing_style
